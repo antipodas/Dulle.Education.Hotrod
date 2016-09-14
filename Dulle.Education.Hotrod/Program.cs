@@ -3,7 +3,7 @@ using Infinispan.HotRod;
 using Infinispan.HotRod.Config;
 using Org.Infinispan.Protostream;
 using Org.Infinispan.Query.Remote.Client;
-using Pedro.Test.Hotrod;
+using Dulle.Education.Hotrod;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -12,7 +12,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace HotRod.Test.Pedro
+namespace Dulle.Education.Hotrod
 {
     class Program
     {

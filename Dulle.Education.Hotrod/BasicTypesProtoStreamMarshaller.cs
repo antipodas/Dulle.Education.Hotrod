@@ -1,12 +1,12 @@
 ﻿
 using Google.Protobuf;
-using HotRod.Test.Pedro;
+using Dulle.Education.Hotrod;
 using Infinispan.Hotrod.Protobuf;
 using Infinispan.HotRod;
 using Org.Infinispan.Protostream;
 using System;
 
-namespace Pedro.Test.Hotrod
+namespace Dulle.Education.Hotrod
 {
     class BasicTypesProtoStreamMarshaller : IMarshaller
     {

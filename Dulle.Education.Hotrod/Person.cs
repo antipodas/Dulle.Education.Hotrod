@@ -2,7 +2,7 @@
 using Google.Protobuf;
 using Google.Protobuf.Reflection;
 
-namespace HotRod.Test.Pedro
+namespace Dulle.Education.Hotrod
 {
     internal class Person : IMessage<Person>
     {
